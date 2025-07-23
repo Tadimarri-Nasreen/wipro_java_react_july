@@ -1,0 +1,3 @@
+### Day 1: Explored Git and GitHub basics like repo creation, commits, and pushing code.
+### Day 2: Covered Java data types, variables, flow control, abstraction, interfaces, and inheritance.
+### Day 3: Practiced Java exception handling using try-catch, throw, throws, and custom exceptions.
